@@ -6,7 +6,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I currently work at Vanguard.
+- I have a dog named Balki.
 - 🌱 I’m currently pursuing a master's in library and information science.
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/her.
 - ⚡ Fun fact: I'm a Peloton enthusiast and have taken classes at their studio! 
 -->
