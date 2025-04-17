@@ -1,4 +1,7 @@
 ## Hi there 👋
+I currently work at Vanguard. 
+I have a dog named Balki. 
+Pronouns: she/her
 
 <!--
 **amanda-jarvis/amanda-jarvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
